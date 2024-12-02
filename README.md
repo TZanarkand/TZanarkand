@@ -8,7 +8,7 @@ Student at KMITL
 
 * 🌍  I'm based in Bangkok, Thailand
 * 🖥️  See my portfolio at [My Port](http://github.com/TZanarkand)
-* ✉️  You can contact me at [pnpz4474@gmail.com](mailto:pnpz4474@gmail.com)
+* ✉️  You can contact me at [panupon.siriworaphas@gmail.com](mailto:panupon.siriworaphas@gmail.com)
 
 ### Skills
 
