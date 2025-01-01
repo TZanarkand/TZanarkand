@@ -25,5 +25,7 @@ Student at KMITL
 ### Badge 
 <img src="https://github.com/user-attachments/assets/ba3f35ea-6695-432e-ba60-d3ae8130778a" width="150" height="150" alt="DataRockie School - Certified Professional Data Analyst (New) - 2024-05-20 (1)">
 
+<img src="https://github.com/user-attachments/assets/4555a936-6199-43a6-a439-e6c96712384b" width="150" height="150" alt="DataRockie School - Certified Professional Data Analyst (New) - 2024-05-20 (1)">
+
 ### Badge of Completion from DataRockie Bootcamp 
 ![Screenshot 2024-12-01 215133](https://github.com/user-attachments/assets/b1cdf85d-d5a9-47c3-92bd-be9eb7bcda77)
