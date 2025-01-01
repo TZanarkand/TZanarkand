@@ -28,4 +28,5 @@ Student at KMITL
 ### Badge of Completion from DataRockie Bootcamp 
 ![Screenshot 2024-12-01 215133](https://github.com/user-attachments/assets/b1cdf85d-d5a9-47c3-92bd-be9eb7bcda77)
 
+<iframe src="https://api.badgr.io/public/assertions/YXTAtNdkQPKbjgbo6fPr0Q?embedVersion=1&amp;embedWidth=330&amp;embedHeight=191&amp;identity__email=pnpz4474%40gmail.com" title="Badge: Data Analyst Manifesto" style="width: 330px; height: 191px; border: 0px;"></iframe>
 
