@@ -7,7 +7,7 @@ Student at KMITL
 "I'm a third-year student with a basic foundation in analytics, having spent the past 1.5 years developing my skills. I am particularly proud of completing DataRockie Bootcamp, Batch 9. I am seeking an internship to further enhance my capabilities.
 
 * 🌍  I'm based in Bangkok, Thailand
-* 🖥️  See my portfolio at [My Port]([http://github.com/TZanarkand](https://drive.google.com/file/d/1w5XbVxIq7eTDGUG9otbSytgnZJtr2X75/view?usp=sharing))
+* 🖥️  See my portfolio at [My Port](https://drive.google.com/file/d/1w5XbVxIq7eTDGUG9otbSytgnZJtr2X75/view?usp=sharing)
 * ✉️  You can contact me at [panupon.siriworaphas@gmail.com](mailto:panupon.siriworaphas@gmail.com)
 
 ### Skills
